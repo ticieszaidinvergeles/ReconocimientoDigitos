@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reconocimiento de Digitos</string>
+    <string name="texto_resultado">Dibuja un dígito</string>
+</resources>
